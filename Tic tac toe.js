@@ -1,8 +1,6 @@
 count = 0;
    
   // document.getElementById("result").innerHTML= "result";
-}
-}
 
 function reset (){
   //reset buttons to empty
